@@ -1,8 +1,4 @@
-Title         : Welcome
-Heading Base  : 2
-Author        : You
-
-[TITLE]
+[INCLUDE=style/mystyle]
 
 # Madoko 
 
